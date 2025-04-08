@@ -32,8 +32,9 @@ I'm a passionate Full Stack Developer and Data Scientist.
 <!-- - Portfolio: [aniketmishra.com](https://www.aniketmishra.com) -->
 
 
-## 📈 GitHub Stats
-<!--![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-avyakta&show_icons=true&theme=radical)
+
+<!--## 📈 GitHub Stats
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-avyakta&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-avyakta&layout=compact)-->
 
